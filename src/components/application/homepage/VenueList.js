@@ -6,6 +6,7 @@ require('styles/application/homepage/Search.css');
 
 class VenueList extends React.Component {
   render() {
+    let regions = [];
     return (
       <div className="venue-list">
         Please edit src/components/application/homepage//SearchComponent.js to update this component!

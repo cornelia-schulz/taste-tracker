@@ -62,7 +62,7 @@
   },
   "dependencies": {
     "core-js": "^2.0.0",
-    "google-maps-react": "^1.0.18",
+    "react-google-maps": "^4.11.0",
     "lodash": "^4.16.2",
     "normalize.css": "^4.0.0",
     "react": "^15.0.0",
