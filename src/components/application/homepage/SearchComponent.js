@@ -8,7 +8,7 @@ class SearchComponent extends React.Component {
   render() {
     return (
       <div className="search-component">
-        Please edit src/components/application/homepage//SearchComponent.js to update this component!
+        
       </div>
     );
   }

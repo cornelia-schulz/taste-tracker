@@ -1,6 +1,7 @@
 require('normalize.css/normalize.css');
 require('styles/App.css');
 import Search from './application/homepage/SearchComponent';
+import SimpleMap from './application/homepage/SimpleMapComponent';
 
 import React from 'react';
 
@@ -11,6 +12,7 @@ class AppComponent extends React.Component {
     return (
       <div className="index">
         <Search/>
+        <SimpleMap className="search-map"/>
       </div>
     );
   }
